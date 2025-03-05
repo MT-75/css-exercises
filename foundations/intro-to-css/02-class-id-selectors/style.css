@@ -7,3 +7,12 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
+
+.third-element, #fourth-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    font-weight: bold;
+    background-color: hsl(120, 73%, 75%);
+}
